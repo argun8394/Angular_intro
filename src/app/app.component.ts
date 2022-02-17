@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'first-project';
+  todos = ["test_1", "test_2"];
 }
+ 
